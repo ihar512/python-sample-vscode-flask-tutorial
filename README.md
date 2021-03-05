@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/EmersonPSS/Cybersecurity/_apis/build/status/ihar512.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/EmersonPSS/Cybersecurity/_build/latest?definitionId=520&branchName=master)
+
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
